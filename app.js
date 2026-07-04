@@ -3,7 +3,7 @@
   Nouveau projet indépendant de la V1.
 */
 
-const API_BASE = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const API_BASE = "https://script.google.com/macros/s/AKfycbybZO6qWko3hrPhELT49h63TeTbsNEj1FabkhMK-eJv2m6u6UcjZvuFb1Jk9mpUwC5k/exec";
 
 const BLOCKS = [
   {
