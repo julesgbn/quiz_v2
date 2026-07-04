@@ -55,7 +55,7 @@ const BLOCKS = [
       {
         "id": "q02-i",
         "label": "i.",
-        "points": 2,
+        "points": 3,
         "text": "Citer 3 laboratoires fournisseurs de vaccins de ce virus."
       },
       {
@@ -79,7 +79,7 @@ const BLOCKS = [
       {
         "id": "q03-a",
         "label": "a)",
-        "points": 1,
+        "points": 2,
         "text": "Citer le pays le plus peuplé d’Asie."
       },
       {
@@ -145,7 +145,7 @@ const BLOCKS = [
       {
         "id": "q05-i",
         "label": "i.",
-        "points": 3,
+        "points": 4,
         "text": "Dans quel journal est parue cette tribune ?"
       },
       {
@@ -249,7 +249,7 @@ const BLOCKS = [
           {
             "id": "q06-foot-end",
             "label": "–",
-            "points": 3,
+            "points": 4,
             "text": "Comment s’appelle le stade dans lequel joue Brest ?"
           }
         ]
@@ -341,7 +341,7 @@ const BLOCKS = [
       {
         "id": "q09-end",
         "label": "–",
-        "points": 3,
+        "points": 4,
         "text": "Quelle est la capitale de la Polynésie française ?"
       }
     ]
@@ -395,7 +395,7 @@ const BLOCKS = [
       {
         "id": "q11-i",
         "label": "i.",
-        "points": 3,
+        "points": 4,
         "text": "Quelle était la monnaie nationale italienne avant l’adoption de l’euro ?"
       },
       {
@@ -494,7 +494,7 @@ const BLOCKS = [
             "id": "q12-mangas-i",
             "label": "i.",
             "points": 3,
-            "text": "Citer les 10 membres de l’Akatsuki du manga Naruto."
+            "text": "Nommer les 10 membres de l’Akatsuki du manga Naruto."
           },
           {
             "id": "q12-mangas-end",
@@ -531,7 +531,7 @@ const BLOCKS = [
       {
         "id": "q13-end",
         "label": "–",
-        "points": 4,
+        "points": 5,
         "text": "Citer un pays ayant des humains sur son drapeau."
       }
     ]
@@ -543,7 +543,7 @@ const BLOCKS = [
       {
         "id": "q14",
         "label": "14)",
-        "points": 2,
+        "points": 3,
         "text": "Quel général français fut un grand acteur de la guerre d’indépendance Américaine des années 1770 ?"
       },
       {
@@ -621,7 +621,7 @@ const BLOCKS = [
       {
         "id": "q16-end",
         "label": "–",
-        "points": 3,
+        "points": 4,
         "text": "De quelle langue vient le mot Safari ?"
       }
     ]
@@ -759,7 +759,7 @@ const BLOCKS = [
           {
             "id": "q21-amerique-sud",
             "label": "1)",
-            "points": 1,
+            "points": 2,
             "text": "Quel pays sud-américain tient son nom d’un célèbre navigateur ?"
           },
           {
@@ -949,7 +949,7 @@ const BLOCKS = [
       {
         "id": "q25-a",
         "label": "a)",
-        "points": 2,
+        "points": 3,
         "text": "Comment s’appelle le traité actant la création de l’UE telle qu’on la connaît aujourd’hui ?"
       },
       {
@@ -1073,7 +1073,7 @@ const BLOCKS = [
       {
         "id": "q27",
         "label": "27)",
-        "points": 2,
+        "points": 3,
         "text": "Quel nom a été donné au projet scientifique international ayant pour but de développer la fusion nucléaire à grande échelle ?"
       },
       {
