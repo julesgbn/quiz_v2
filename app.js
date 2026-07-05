@@ -244,7 +244,7 @@ const BLOCKS = [
             "id": "q06-foot-i",
             "label": "i.",
             "points": 3,
-            "text": "Citer 4 clubs de Buenos Aires."
+            "text": "Citer 3 clubs de Buenos Aires."
           },
           {
             "id": "q06-foot-end",
